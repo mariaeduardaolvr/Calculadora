@@ -34,7 +34,8 @@ Digite os números e escolha a operação
 Veja o resultado instantaneamente na tela
 
 🔗 Link do Projeto
-https://github.com/mariaeduardaolvr/Calculadora
+https://github.com/mariaeduardaolvr/Calculadora.git
+
 
 
 👉 Acesse aqui a Calculadora
